@@ -35,3 +35,7 @@ El repositorio contiene diversos ejercicios de los siguientes temas:
 - Estructuras de control
 - Bibliotecas (Con Raspberry Pi y sensor MLX90614)
 
+#### Variables en Python
+Este ejercicio consiste en solicitar al usuario su color favorito, su edad y su peso, para posteriormente imprimirlos en la terminal. Esto con el fin de utilizar las variables de INT, INPUT y FLOAT.
+Foto del código y su resultado en terminal:
+![](https://github.com/JoErnesto/Ejercicios-basicos-Python/blob/main/Variables%20Python/Variables.png)
